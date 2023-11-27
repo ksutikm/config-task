@@ -1,0 +1,16 @@
+{
+  "version": "2.0.5",
+  "keys": {
+    "path": {
+      "update_type": "add",
+      "default_value": "C:/"
+    },
+    "port": {
+      "update_type": "rename",
+      "value": "db_port"
+    },
+    "name": {
+      "update_type": "delete"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "3.6.0",
+  "keys": {
+    "name": {
+      "update_type": "delete"
+    },
+    "car": {
+      "update_type": "delete"
+    }
+  }
+}

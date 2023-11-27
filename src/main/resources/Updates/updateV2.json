@@ -1,0 +1,16 @@
+{
+  "version": "0.0.6",
+  "keys": {
+    "car": {
+      "update_type": "add",
+      "default_value": "Opel"
+    },
+    "db_port": {
+      "update_type": "rename",
+      "value": "port"
+    },
+    "name": {
+      "update_type": "delete"
+    }
+  }
+}

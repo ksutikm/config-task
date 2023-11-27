@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "keys": {
+    "path.car": {
+      "update_type": "add",
+      "default_value": "parking/garage"
+    },
+    "port": {
+      "update_type": "rename",
+      "value": "db_port"
+    },
+    "path.postgresql": {
+      "update_type": "delete"
+    }
+  }
+}
